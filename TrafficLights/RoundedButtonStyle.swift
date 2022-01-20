@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct RoundedButton: ButtonStyle {
+struct RoundedButtonStyle: ButtonStyle {
     func makeBody(configuration: Configuration) -> some View {
         configuration
             .label

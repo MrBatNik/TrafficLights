@@ -37,7 +37,7 @@ struct ContentView: View {
                 } label: {
                     Text(buttonTitle)
                 }
-                    .buttonStyle(RoundedButton())
+                    .buttonStyle(RoundedButtonStyle())
             }
             .padding()
         }

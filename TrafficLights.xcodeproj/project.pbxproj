@@ -12,7 +12,7 @@
 		1BBFE523279892A700339D9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BBFE522279892A700339D9B /* Assets.xcassets */; };
 		1BBFE526279892A700339D9B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BBFE525279892A700339D9B /* Preview Assets.xcassets */; };
 		1BBFE52D279966CE00339D9B /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BBFE52C279966CE00339D9B /* CircleView.swift */; };
-		1BBFE52F2799727100339D9B /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BBFE52E2799727100339D9B /* RoundedButton.swift */; };
+		1BBFE52F2799727100339D9B /* RoundedButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BBFE52E2799727100339D9B /* RoundedButtonStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +22,7 @@
 		1BBFE522279892A700339D9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1BBFE525279892A700339D9B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1BBFE52C279966CE00339D9B /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
-		1BBFE52E2799727100339D9B /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
+		1BBFE52E2799727100339D9B /* RoundedButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButtonStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 				1BBFE51E279892A600339D9B /* TrafficLightsApp.swift */,
 				1BBFE520279892A600339D9B /* ContentView.swift */,
 				1BBFE52C279966CE00339D9B /* CircleView.swift */,
-				1BBFE52E2799727100339D9B /* RoundedButton.swift */,
+				1BBFE52E2799727100339D9B /* RoundedButtonStyle.swift */,
 				1BBFE522279892A700339D9B /* Assets.xcassets */,
 				1BBFE524279892A700339D9B /* Preview Content */,
 			);
@@ -145,7 +145,7 @@
 			files = (
 				1BBFE521279892A600339D9B /* ContentView.swift in Sources */,
 				1BBFE52D279966CE00339D9B /* CircleView.swift in Sources */,
-				1BBFE52F2799727100339D9B /* RoundedButton.swift in Sources */,
+				1BBFE52F2799727100339D9B /* RoundedButtonStyle.swift in Sources */,
 				1BBFE51F279892A600339D9B /* TrafficLightsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
